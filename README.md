@@ -6,8 +6,7 @@ I want to present you best, easy to understand yet affordable course so that it 
 
 - 💻 learn Python,Sql,java, DSA, System Design, Machine Learning, Deep Learning & many more with sanjeet
 
-## An investment in knowledge pays the best Interest
-## Do SIP with Wizanta  @  ₹ 600 / Monthly
-## link - wizanta.com
-## JOIN WIZ-CLIQUE
-## You help me to make it affordable, thank you !! 
+An investment in knowledge pays the best Interest
+Do SIP with Wizanta  @  ₹ 600 / Monthly -- JOIN WIZ-CLIQUE
+link - wizanta.com
+
